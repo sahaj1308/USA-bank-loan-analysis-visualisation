@@ -1,6 +1,6 @@
 # Bank Loan Analytics & Default Prediction
 
-## Project Overview 📊
+## Project Overview 
 
 This project is a comprehensive solution combining **business intelligence dashboards** and **predictive machine learning models** to analyze and forecast loan portfolio risk for a USA-based bank.  
 
@@ -39,7 +39,4 @@ It aims to provide actionable insights on loan trends, portfolio health, and pro
 * **Machine Learning**: Regression, Tree Models, Time-series forecasting
 * **Version Control**: GitHub
 
----
-
-## Repository Structure 🗂️
 
